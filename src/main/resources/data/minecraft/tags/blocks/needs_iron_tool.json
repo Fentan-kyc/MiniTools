@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minitoolsmod:peridot_ore",
+    "minitoolsmod:deepslate_peridot_ore",
+    "minitoolsmod:ruby_ore",
+    "minitoolsmod:deepslate_ruby_ore",
+    "minitoolsmod:sapphire_ore",
+    "minitoolsmod:deepslate_sapphire_ore"
+  ]
+}

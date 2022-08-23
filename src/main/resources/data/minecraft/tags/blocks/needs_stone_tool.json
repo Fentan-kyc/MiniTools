@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minitoolsmod:peridot_block",
+    "minitoolsmod:ruby_block",
+    "minitoolsmod:sapphire_block"
+  ]
+}
