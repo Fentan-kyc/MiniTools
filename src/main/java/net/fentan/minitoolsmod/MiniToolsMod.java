@@ -1,6 +1,7 @@
 package net.fentan.minitoolsmod;
 
 import com.mojang.logging.LogUtils;
+import net.fentan.minitoolsmod.block.ModBlocks;
 import net.fentan.minitoolsmod.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -33,6 +34,7 @@ public class MiniToolsMod
         eventBus.addListener(this::setup);
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }

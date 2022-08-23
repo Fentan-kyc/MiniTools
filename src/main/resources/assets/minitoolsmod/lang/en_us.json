@@ -3,5 +3,9 @@
   "item.minitoolsmod.ruby": "Ruby",
   "item.minitoolsmod.sapphire": "Sapphire",
 
+  "block.minitoolsmod.peridot_block": "Block of Peridot",
+  "block.minitoolsmod.ruby_block": "Block of Ruby",
+  "block.minitoolsmod.sapphire_block": "Block of Sapphire",
+
   "itemGroup.modtools": "Mini Tools"
 }
