@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sapphire",
+  "ingredients": [
+    {
+      "item": "minitoolsmod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "minitoolsmod:sapphire",
+    "count": 9
+  }
+}

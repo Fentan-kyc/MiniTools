@@ -6,6 +6,12 @@
   "block.minitoolsmod.peridot_block": "Block of Peridot",
   "block.minitoolsmod.ruby_block": "Block of Ruby",
   "block.minitoolsmod.sapphire_block": "Block of Sapphire",
+  "block.minitoolsmod.peridot_ore": "Peridot Ore",
+  "block.minitoolsmod.deepslate_peridot_ore": "Deepslate Peridot Ore",
+  "block.minitoolsmod.ruby_ore": "Ruby Ore",
+  "block.minitoolsmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.minitoolsmod.sapphire_ore": "Sapphire Ore",
+  "block.minitoolsmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
 
   "itemGroup.modtools": "Mini Tools"
 }

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "peridot",
+  "ingredient": {
+    "item": "minitoolsmod:deepslate_peridot_ore"
+  },
+  "result": "minitoolsmod:peridot",
+  "experience": 0.3,
+  "cookingtime": 100
+}

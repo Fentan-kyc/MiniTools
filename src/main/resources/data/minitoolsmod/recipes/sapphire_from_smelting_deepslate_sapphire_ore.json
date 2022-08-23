@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "ruby",
+  "ingredient": {
+    "item": "minitoolsmod:deepslate_sapphire_ore"
+  },
+  "result": "minitoolsmod:sapphire",
+  "experience": 0.3,
+  "cookingtime": 200
+}

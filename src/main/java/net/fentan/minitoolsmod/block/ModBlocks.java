@@ -39,6 +39,43 @@ public class ModBlocks {
                             .strength(4f).requiresCorrectToolForDrops()),
                     ModCreativeModeTab.MOD_TOOLS);
 
+    public static final RegistryObject<Block> PERIDOT_ORE =
+            registerBlock("peridot_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4f).requiresCorrectToolForDrops()),
+                    ModCreativeModeTab.MOD_TOOLS);
+
+    public static final RegistryObject<Block> DEEPSLATE_PERIDOT_ORE =
+            registerBlock("deepslate_peridot_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4f).requiresCorrectToolForDrops()),
+                    ModCreativeModeTab.MOD_TOOLS);
+
+    public static final RegistryObject<Block> RUBY_ORE =
+            registerBlock("ruby_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4f).requiresCorrectToolForDrops()),
+                    ModCreativeModeTab.MOD_TOOLS);
+
+    public static final RegistryObject<Block> DEEPSLATE_RUBY_ORE =
+            registerBlock("deepslate_ruby_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4f).requiresCorrectToolForDrops()),
+                    ModCreativeModeTab.MOD_TOOLS);
+
+    public static final RegistryObject<Block> SAPPHIRE_ORE =
+            registerBlock("sapphire_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4f).requiresCorrectToolForDrops()),
+                    ModCreativeModeTab.MOD_TOOLS);
+
+    public static final RegistryObject<Block> DEEPSLATE_SAPPHIRE_ORE =
+            registerBlock("deepslate_sapphire_ore",
+                    () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                            .strength(4f).requiresCorrectToolForDrops()),
+                    ModCreativeModeTab.MOD_TOOLS);
+
+
 
 
 

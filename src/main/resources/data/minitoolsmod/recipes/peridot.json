@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "peridot",
+  "ingredients": [
+    {
+      "item": "minitoolsmod:peridot_block"
+    }
+  ],
+  "result": {
+    "item": "minitoolsmod:peridot",
+    "count": 9
+  }
+}
