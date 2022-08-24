@@ -29,5 +29,18 @@
   "item.minitoolsmod.sapphire_axe": "Sapphire Axe",
   "item.minitoolsmod.sapphire_hoe": "Sapphire Hoe",
 
+  "item.minitoolsmod.peridot_helmet": "Peridot Helmet",
+  "item.minitoolsmod.peridot_chestplate": "Peridot Chestplate",
+  "item.minitoolsmod.peridot_leggings": "Peridot Leggings",
+  "item.minitoolsmod.peridot_boots": "Peridot Boots",
+  "item.minitoolsmod.ruby_helmet": "Ruby Helmet",
+  "item.minitoolsmod.ruby_chestplate": "Ruby Chestplate",
+  "item.minitoolsmod.ruby_leggings": "Ruby Leggings",
+  "item.minitoolsmod.ruby_boots": "Ruby Boots",
+  "item.minitoolsmod.sapphire_helmet": "Sapphire Helmet",
+  "item.minitoolsmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.minitoolsmod.sapphire_leggings": "Sapphire Leggings",
+  "item.minitoolsmod.sapphire_boots": "Sapphire Boots",
+
   "itemGroup.modtools": "Mini Tools"
 }

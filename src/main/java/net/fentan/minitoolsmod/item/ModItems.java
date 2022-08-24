@@ -1,6 +1,7 @@
 package net.fentan.minitoolsmod.item;
 
 import net.fentan.minitoolsmod.MiniToolsMod;
+import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -18,6 +19,7 @@ public class ModItems {
     public static final RegistryObject<Item> SAPPHIRE = ITEMS.register("sapphire",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
 
+    //Tools
     public static final RegistryObject<Item> PERIDOT_SWORD = ITEMS.register("peridot_sword",
             () -> new SwordItem(ModTiers.PERIDOT, 2, 3f,
                     new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
@@ -64,6 +66,46 @@ public class ModItems {
                     new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
     public static final RegistryObject<Item> SAPPHIRE_HOE = ITEMS.register("sapphire_hoe",
             () -> new HoeItem(ModTiers.SAPPHIRE, 2, 3f,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+
+    //Armor
+    public static final RegistryObject<Item> PERIDOT_HELMET = ITEMS.register("peridot_helmet",
+            () -> new ArmorItem( ModArmorMaterials.PERIDOT, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> PERIDOT_CHESTPLATE = ITEMS.register("peridot_chestplate",
+            () -> new ArmorItem( ModArmorMaterials.PERIDOT, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> PERIDOT_LEGGINGS = ITEMS.register("peridot_leggings",
+            () -> new ArmorItem( ModArmorMaterials.PERIDOT, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> PERIDOT_BOOTS = ITEMS.register("peridot_boots",
+            () -> new ArmorItem( ModArmorMaterials.PERIDOT, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+
+    public static final RegistryObject<Item> RUBY_HELMET = ITEMS.register("ruby_helmet",
+            () -> new ArmorItem( ModArmorMaterials.RUBY, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> RUBY_CHESTPLATE = ITEMS.register("ruby_chestplate",
+            () -> new ArmorItem( ModArmorMaterials.RUBY, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> RUBY_LEGGINGS = ITEMS.register("ruby_leggings",
+            () -> new ArmorItem( ModArmorMaterials.RUBY, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> RUBY_BOOTS = ITEMS.register("ruby_boots",
+            () -> new ArmorItem( ModArmorMaterials.RUBY, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+
+    public static final RegistryObject<Item> SAPPHIRE_HELMET = ITEMS.register("sapphire_helmet",
+            () -> new ArmorItem( ModArmorMaterials.SAPPHIRE, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> SAPPHIRE_CHESTPLATE = ITEMS.register("sapphire_chestplate",
+            () -> new ArmorItem( ModArmorMaterials.SAPPHIRE, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> SAPPHIRE_LEGGINGS = ITEMS.register("sapphire_leggings",
+            () -> new ArmorItem( ModArmorMaterials.SAPPHIRE, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
+    public static final RegistryObject<Item> SAPPHIRE_BOOTS = ITEMS.register("sapphire_boots",
+            () -> new ArmorItem( ModArmorMaterials.SAPPHIRE, EquipmentSlot.FEET,
                     new Item.Properties().tab(ModCreativeModeTab.MOD_TOOLS)));
 
 

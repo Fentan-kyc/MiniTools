@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "minitoolsmod:peridot"
+    }
+  },
+  "result": {
+    "item": "minitoolsmod:peridot_helmet"
+  }
+}
