@@ -13,5 +13,21 @@
   "block.minitoolsmod.sapphire_ore": "Sapphire Ore",
   "block.minitoolsmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
 
+  "item.minitoolsmod.peridot_sword": "Peridot Sword",
+  "item.minitoolsmod.peridot_pickaxe": "Peridot Pickaxe",
+  "item.minitoolsmod.peridot_shovel": "Peridot Shovel",
+  "item.minitoolsmod.peridot_axe": "Peridot Axe",
+  "item.minitoolsmod.peridot_hoe": "Peridot Hoe",
+  "item.minitoolsmod.ruby_sword": "Ruby Sword",
+  "item.minitoolsmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.minitoolsmod.ruby_shovel": "Ruby Shovel",
+  "item.minitoolsmod.ruby_axe": "Ruby Axe",
+  "item.minitoolsmod.ruby_hoe": "Ruby Hoe",
+  "item.minitoolsmod.sapphire_sword": "Sapphire Sword",
+  "item.minitoolsmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.minitoolsmod.sapphire_shovel": "Sapphire Shovel",
+  "item.minitoolsmod.sapphire_axe": "Sapphire Axe",
+  "item.minitoolsmod.sapphire_hoe": "Sapphire Hoe",
+
   "itemGroup.modtools": "Mini Tools"
 }
