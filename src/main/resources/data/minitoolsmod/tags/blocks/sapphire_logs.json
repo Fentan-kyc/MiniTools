@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minitoolsmod:sapphire_log",
+    "minitoolsmod:sapphire_wood",
+    "minitoolsmod:stripped_sapphire_log",
+    "minitoolsmod:stripped_sapphire_wood"
+  ]
+}

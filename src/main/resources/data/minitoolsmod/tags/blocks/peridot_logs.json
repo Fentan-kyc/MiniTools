@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minitoolsmod:peridot_log",
+    "minitoolsmod:peridot_wood",
+    "minitoolsmod:stripped_peridot_log",
+    "minitoolsmod:stripped_peridot_wood"
+  ]
+}

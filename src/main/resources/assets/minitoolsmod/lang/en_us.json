@@ -42,5 +42,23 @@
   "item.minitoolsmod.sapphire_leggings": "Sapphire Leggings",
   "item.minitoolsmod.sapphire_boots": "Sapphire Boots",
 
+  "block.minitoolsmod.peridot_log": "Peridot Log",
+  "block.minitoolsmod.peridot_wood": "Peridot Wood",
+  "block.minitoolsmod.stripped_peridot_log": "Stripped Peridot Log",
+  "block.minitoolsmod.stripped_peridot_wood": "Stripped Peridot Wood",
+  "block.minitoolsmod.peridot_planks": "Peridot Planks",
+
+  "block.minitoolsmod.ruby_log": "Ruby Log",
+  "block.minitoolsmod.ruby_wood": "Ruby Wood",
+  "block.minitoolsmod.stripped_ruby_log": "Stripped Ruby Log",
+  "block.minitoolsmod.stripped_ruby_wood": "Stripped Ruby Wood",
+  "block.minitoolsmod.ruby_planks": "Ruby Planks",
+
+  "block.minitoolsmod.sapphire_log": "Sapphire Log",
+  "block.minitoolsmod.sapphire_wood": "Sapphire Wood",
+  "block.minitoolsmod.stripped_sapphire_log": "Stripped Sapphire Log",
+  "block.minitoolsmod.stripped_sapphire_wood": "Stripped Sapphire Wood",
+  "block.minitoolsmod.sapphire_planks": "Sapphire Planks",
+
   "itemGroup.modtools": "Mini Tools"
 }

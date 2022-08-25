@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minitoolsmod:peridot_logs",
+    "#minitoolsmod:ruby_logs",
+    "#minitoolsmod:sapphire_logs"
+  ]
+}

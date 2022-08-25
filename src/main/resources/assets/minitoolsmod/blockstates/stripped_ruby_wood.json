@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minitoolsmod:block/stripped_ruby_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minitoolsmod:block/stripped_ruby_wood"
+    },
+    "axis=z": {
+      "model": "minitoolsmod:block/stripped_ruby_wood",
+      "x": 90
+    }
+  }
+}

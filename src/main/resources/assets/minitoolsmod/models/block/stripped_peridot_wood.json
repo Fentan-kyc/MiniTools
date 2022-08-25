@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minitoolsmod:block/stripped_peridot_log",
+    "side": "minitoolsmod:block/stripped_peridot_log"
+  }
+}

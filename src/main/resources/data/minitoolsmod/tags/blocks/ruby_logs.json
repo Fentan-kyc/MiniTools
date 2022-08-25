@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minitoolsmod:ruby_log",
+    "minitoolsmod:ruby_wood",
+    "minitoolsmod:stripped_ruby_log",
+    "minitoolsmod:stripped_ruby_wood"
+  ]
+}
