@@ -1,6 +1,6 @@
-package net.fentan.world.gen;
+package net.fentan.minitoolsmod.world.gen;
 
-import net.fentan.world.feature.ModPlacedFeatures;
+import net.fentan.minitoolsmod.world.feature.ModPlacedFeatures;
 import net.minecraft.core.Holder;
 import net.minecraft.world.level.levelgen.GenerationStep;
 import net.minecraft.world.level.levelgen.placement.PlacedFeature;

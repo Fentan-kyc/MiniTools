@@ -1,4 +1,4 @@
-package net.fentan.world.feature;
+package net.fentan.minitoolsmod.world.feature;
 
 import net.fentan.minitoolsmod.block.ModBlocks;
 import net.minecraft.core.Holder;

@@ -1,4 +1,4 @@
-package net.fentan.world.feature;
+package net.fentan.minitoolsmod.world.feature;
 
 import net.minecraft.core.Holder;
 import net.minecraft.data.worldgen.placement.PlacementUtils;

@@ -1,7 +1,7 @@
-package net.fentan.world;
+package net.fentan.minitoolsmod.world;
 
 import net.fentan.minitoolsmod.MiniToolsMod;
-import net.fentan.world.gen.ModOreGeneration;
+import net.fentan.minitoolsmod.world.gen.ModOreGeneration;
 import net.minecraftforge.event.world.BiomeLoadingEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
